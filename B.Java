@@ -1,3 +1,3 @@
 Class B{
-    jfjjf
+    System.out.print("from main");
 }
